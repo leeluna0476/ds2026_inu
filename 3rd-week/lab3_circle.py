@@ -6,4 +6,4 @@ def perimeter(radius):
     return 2 * pi * radius
 
 def area(radius):
-    return 2 * pi * radius ** 2
+    return pi * radius ** 2
